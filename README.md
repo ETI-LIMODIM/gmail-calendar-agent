@@ -17,7 +17,7 @@ AI Agent for Gmail and Google Calendar
 - Google OAuth2
 - AI parsing logic
 ## איך מריצים את הפרויקט:
-מתקינים ספריות: ip install -r requirements.txt  ומריצים python main.py
+מתקינים ספריות: pip install -r requirements.txt  ומריצים python main.py
 
 ## מבנה הפרוייקט:
 
