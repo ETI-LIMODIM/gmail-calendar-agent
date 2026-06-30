@@ -33,6 +33,7 @@ AI Agent for Gmail and Google Calendar
 - קבצים רגישים (token.json, credentials.json) לא כלולים ב-GitHub
 - זה פרויקט לימודי המדמה סוכן אוטומטי אמיתי
 
-<img width="1892" height="985" alt="image" src="https://github.com/user-attachments/assets/725bc55a-9362-4a02-8c69-1e38e8b26b0d" />
+<img width="1892" height="985" alt="image" src="https://github.com/user-attachments/assets/3dabbd42-92a5-4696-aa99-ca414a0a91ce" />
+
 
 
